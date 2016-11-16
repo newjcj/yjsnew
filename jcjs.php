@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+jcjs.php
